@@ -25,7 +25,7 @@ CONTENUTO DELLA PAGINA
 
 
 /*********************
-ARTICOLO DI TIM BERNERS-LEE
+ARTICOLO DI THE BOOLEANER
 *********************/
 #title-article{
     font-size: 26px;
@@ -50,4 +50,26 @@ ARTICOLO DI TIM BERNERS-LEE
 .desc{
     font-family: Arial;
     font-size:12px
+}
+
+.underline-color{
+    background-color:yellow;
+}
+
+
+/*********************
+TABELLA DI DATI
+*********************/
+
+table{
+    font-size:14px;
+}
+
+thead{
+    color:white;
+    background-color: rgb(43, 98, 158);
+}
+
+.row-color{
+    background-color:#26ABE6;
 }
