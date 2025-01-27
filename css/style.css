@@ -1,16 +1,53 @@
 body{
     margin:0;
 }
+/*********************
+INTESTAZIONE PAGINA
+*********************/
 header{
-    height:120px;
+    height:90px;
     margin:0;
     background-image: url('/img/pattern.png');
     background-color: #4E9FFE;
-    background-
+    background-size: 360px 190px;
 }
 
 #logo{
     width:200px;
     height:40px;
-    padding-top:80px;
+    padding-top:45px;
+}
+
+
+/*********************
+CONTENUTO DELLA PAGINA
+*********************/
+
+
+/*********************
+ARTICOLO DI TIM BERNERS-LEE
+*********************/
+#title-article{
+    font-size: 26px;
+    
+}
+
+.who-write{
+    color: gray;
+    font-size:15px;
+    font-weight:bold;
+}
+
+#blue-words{
+    color:#26ABE6;
+}
+
+#date{
+    font-weight:100;
+    font-size:13px;
+}
+
+.desc{
+    font-family: Arial;
+    font-size:12px
 }
