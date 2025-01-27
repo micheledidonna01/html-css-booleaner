@@ -1,5 +1,5 @@
 body{
-    margin:0;
+    margin:0 auto;
 }
 /*********************
 INTESTAZIONE PAGINA
@@ -22,7 +22,9 @@ header{
 /*********************
 CONTENUTO DELLA PAGINA
 *********************/
-
+main{
+    padding:2px;
+}
 
 /*********************
 ARTICOLO DI THE BOOLEANER
@@ -72,4 +74,28 @@ thead{
 
 .row-color{
     background-color:#26ABE6;
+}
+
+
+/*********************
+ALTRI ARTICOLI
+*********************/
+footer{
+    padding:2px;
+}
+h4{
+    color:gray;
+    
+}
+.container{
+    width: 200px;
+    height:200px;
+}
+
+.num1{
+    background-image: url('/img/monitor.jpg');
+}
+
+.num2{
+    background-image: url('/img/graph.jpg');
 }
